@@ -29,7 +29,7 @@ npm start
 ### Instalación con git clone🔧
 _Se puede clonar el repositorio, ingresando a una terminal y ejecutando:_
 ```
-git clone https://github.com/rod77/Clase14_Firebase2.git
+git clone https://github.com/rod77/ej_pre_entrega_2.git
 ```
 Luego continuar con el paso 3 de la otra forma 
 
